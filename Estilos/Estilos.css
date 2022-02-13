@@ -1,0 +1,12 @@
+.colorLetras{
+    color:black;
+}
+
+.page{
+    height: 100%;
+    width: 100%;
+    background: rgb(41, 41, 41);
+    background: linear-gradient(135deg, rgb(91, 91, 92) 0%, rgb(180, 180, 180) 45%, rgb(255, 255, 255) 100%);
+    text-align: center;
+    flex-grow: 1;
+}
